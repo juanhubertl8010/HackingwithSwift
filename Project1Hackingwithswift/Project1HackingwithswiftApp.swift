@@ -11,7 +11,7 @@ import SwiftUI
 struct Project1HackingwithswiftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Hackingwithswift2()
         }
     }
 }
